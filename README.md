@@ -12,7 +12,7 @@ I'm a Computer Engineer passionate about building impactful, scalable applicatio
 I love working on **full-stack projects**, exploring new tech, and creating clean, organized systems.  
 Currently focusing on **Spring Boot, React, Cloud, Firebase, and Productivity Tools**.
 
-Let's connect and collaborate!
+Let’s connect and collaborate!
 
 </div>
 
@@ -74,11 +74,4 @@ Let's connect and collaborate!
 
 </div>
 
----
-<br />
-
-<!-- 👇 ADDED BOTTOM-RIGHT VIEW COUNTER (ONLY NEW THING YOU ASKED FOR) -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=pranavmhargude&label=Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
 
